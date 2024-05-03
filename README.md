@@ -13,6 +13,12 @@ An insurance company in the US is reviewing its insurance claims/charges and is 
 
 ![image](https://github.com/ksrcv/Health-Insurance-Project/assets/118098160/4824532b-d5d6-4ccb-b656-75075d087a2d)
 
+The dataset,Excel Sheet which contains the analysis, and PPT which contains the insights are all provided in the repository
+
+The parameters that have a major affect on health insurance claims are:
+
+Age, BMI and if they are a smoker or not.
+
 
 
 
